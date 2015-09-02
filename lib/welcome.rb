@@ -1,3 +1,4 @@
+# Welcome class defines messge.
 class Welcome
   attr_accessor :message
 
